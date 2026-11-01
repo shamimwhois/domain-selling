@@ -8,7 +8,7 @@ web
 
 ## Stack
 
-PHP single-file template (`index.php`) that renders all content by looping over the array returned by `app/data.php`; content is edited and saved through `admin.php`. Styling uses the Tailwind CDN plus a small custom `assets/css/style.css`; conversion behavior lives in `assets/js/main.js`. This stack and the data-driven architecture were confirmed by the user for this redesign (keep `app/data.php` + `admin.php`; keep Tailwind CDN).
+PHP single-file template (`index.php`) that renders all content by looping over the array returned by `app/data.php`; content is edited and saved through `admin.php`. Styling is a bespoke semantic-CSS design system in `assets/css/style.css` (no Tailwind; the user approved dropping the Tailwind CDN as part of the Auction Lot redesign, with fonts via Google Fonts); conversion behavior and the tab engine live in `assets/js/main.js`. This stack and the data-driven architecture were confirmed by the user for this redesign (keep `app/data.php` + `admin.php`).
 
 ## Users
 
