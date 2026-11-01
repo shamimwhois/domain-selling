@@ -1,0 +1,1 @@
+﻿Design hook enabled for this project (wrote .impeccable\config.json). Recorded local hook consent in .impeccable\config.local.json. No installed provider skill folders found to repair.

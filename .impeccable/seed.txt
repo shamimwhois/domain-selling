@@ -1,0 +1,153 @@
+﻿DIRECTION CONCEPT SEED (key: f9b099a0ece3a43410859b127979a814; mode: persuade; source: api; approved pool: c3b204a1eed6; 306/564 human-approved; rerun with --scope direction --mode persuade --from f9b099a0ece3a43410859b127979a814 --candidate-count 7 to reproduce this roll against this catalog revision)
+ASSIGNED INDEX: 4
+  After ordering the grounded directions by resonance, build candidate
+  4 of your own grounded list; the assignment never points at a
+  challenger. The assignment is the roll, not a suggestion: your top-ranked
+  direction is what every run would ship, so the script decides which grounded
+  direction gets built. Each direction joins a durable visual system to a
+  concrete expression for the requested first surface, decided as one. It must
+  survive the current task plus navigation, quiet and dense content,
+  interaction and state, and a substantially different future surface. In an
+  attended run, present the assigned direction fully committed and offer
+  re-roll. You may add ONE card for your top-ranked grounded candidate when
+  it is not the assigned direction, kicker IMPECCABLEΓÇÖS PICK, with an honest risk line
+  naming its familiarity; one pick card, never a ranked lineup, and the pick
+  never takes the lead position. When the assignment IS your top candidate,
+  there is no pick card. Re-roll yourself only
+  on named factual grounds, when the assignment cannot carry the product's
+  truth or task; taste is never grounds.
+  The assignment exists to refuse the model's ranking rut, never to outrank
+  the user or the brief. Never expose assignment metadata in user-facing labels.
+CHALLENGERS:
+  1. a dark-first working surface where a graphite ground carries syntax-derived accent colors, panels divide with hairline seams rather than shadow, and every destructive action is separated from its neighbors by deliberate empty space
+     SOURCE ID: digital-design-canon-dark-first-developer-console
+     CREATIVE SPARK: Everything is graphite and separated by lines one pixel wide, and the delete button sits on its own with nothing near enough to hit by accident.
+     SYSTEM GRAMMAR:
+       - Palette/material: a graphite ground with panels distinguished by hairline seams and one step of elevation, and syntax-derived accents for state only
+       - Type/composition: a compact sans with monospaced figures, panel headers in small caps, and destructive actions given deliberate isolation
+       - Topology/navigation: panels tile the surface and persist, so navigation changes panel contents rather than replacing the layout
+       - Controls/state: controls are panel actions, the primary takes a single accent, and destructive ones stay outline until deliberately focused
+       - Responsive/motion: panels collapse by declared priority into a stack, and motion is a panel expanding along one axis only
+     WEB LEVERAGE: a dark-first token scale, priority-based responsive panel collapse, and focus-gated destructive actions
+     QUALITY BAR: board https://impeccable.style/worlds/cards/digital-design-canon-dark-first-developer-console.webp ┬╖ hero https://impeccable.style/worlds/cards/digital-design-canon-dark-first-developer-console-hero.webp
+  2. a character goods catalog page, a cast of rounded mascots ranked by popularity across a pastel grid, each with a name plate, a birthday, and a one-line personality note printed beneath its portrait
+     SOURCE ID: pop-culture-shelf-character-goods-catalog
+     CREATIVE SPARK: forty-eight rounded characters ranked by how much people like them, each with a birthday and one line about what they enjoy, and one of them is a lump of butter.
+     SYSTEM GRAMMAR:
+       - Palette/material: soft pastel grounds with a white keyline around every mascot, flat fills, and one saturated ribbon color per character
+       - Type/composition: a rounded bubble face for name plates, mascots ranked in a grid, and a birthday with a one-line note ruled beneath each
+       - Topology/navigation: the roster is ranked and finite, so navigation moves between characters and their fixed personal furniture
+       - Controls/state: controls are mascot cells, the active one takes its ribbon color, and retired characters print in grayscale
+       - Responsive/motion: the roster reflows in whole cells, and motion is a small bounce as a character takes focus
+     WEB LEVERAGE: a whole-cell responsive roster, ranked ordering as live state, and a bounce animation on focus
+     QUALITY BAR: board https://impeccable.style/worlds/cards/pop-culture-shelf-character-goods-catalog.webp ┬╖ hero https://impeccable.style/worlds/cards/pop-culture-shelf-character-goods-catalog-hero.webp
+  3. a small aircraft's night instrument six-pack, where six luminous gauges hold a pilot's trust through cloud with nothing outside the glass
+     SOURCE ID: signals-instruments-night-flight-six-pack
+     CREATIVE SPARK: Outside is ink; inside, six calm dials agree with each other, and the practiced eye sweeps them in a quiet ritual of cross-checks.
+     SYSTEM GRAMMAR:
+       - Palette/material: matte black panel ground, instrument faces near-black with luminous white markings, radium-green glow for needles; amber and red lamps only for caution
+       - Type/composition: white aviation numerals and tick scales on round dials, terse placard caps beneath each gauge; two ranked rows of three set the fixed composition
+       - Topology/navigation: a fixed constellation of instruments, each owning one truth; the cross-check sweep is the reading order.
+       - Controls/state: deviations tilt needles before alarms; every gauge shows trend as well as value.
+       - Responsive/motion: the six-pack stacks by criticality on phones; needle motion is damped and physical, never snapped.
+     WEB LEVERAGE: Real-time data binds to SVG gauges with damped spring physics and a screen-reader flight summary.
+     QUALITY BAR: board https://impeccable.style/worlds/cards/signals-instruments-night-flight-six-pack.webp ┬╖ hero https://impeccable.style/worlds/cards/signals-instruments-night-flight-six-pack-hero.webp
+  4. A worked queue built from a cracktro title screen: one bitmap face riding baselines over an emissive black void, where rank is depth, fields of grey dust drift behind the work at layered speeds, and nothing is ever enclosed by a rule or a box.
+     SOURCE ID: operate-c-cracktro-scroller-queue
+     CREATIVE SPARK: At 2am one ivory line of bitmap text sits dead still on a black screen while three fields of grey pinpricks drift behind it at different speeds, and a single amber caret blinks at the head of the line.
+     SYSTEM GRAMMAR:
+       - Palette/material: emissive black void, four dust neutrals ash to ivory, one signal amber; prose is ivory on void only; foreign images sit unretouched on the void, never tinted.
+       - Type/composition: one bitmap face at two sizes; all text rides baselines on a single unit; overlap allowed, enclosure never; no rules, boxes or dividers.
+       - Topology/navigation: layers stacked front to back; every baseline continues past both screen edges, so nothing is contained; navigating means pulling a layer forward.
+       - Controls/state: state is depth: brightness step plus letterspacing plus drift rate; the frontmost brightest widest item outranks all; a reversed glyph cell marks failure.
+       - Responsive/motion: only rear layers drift, one slow rate halved per step forward; the front plane holds still while read; narrow widths drop depth steps, not brightness steps.
+     WEB LEVERAGE: Every element declares an integer depth; one stylesheet maps depth to brightness step, letterspacing and drift rate off a single shared clock, and focus freezes the front plane to full stillness.
+     QUALITY BAR: board https://impeccable.style/worlds/cards/operate-c-cracktro-scroller-queue.webp ┬╖ hero https://impeccable.style/worlds/cards/operate-c-cracktro-scroller-queue-hero.webp
+  5. a multiplane cel-animation dawn, where hand-painted forest planes slide at different speeds and the camera sinks through mist toward a lit cottage
+     SOURCE ID: cinema-cinematography-editing-multiplane-cel-dawn
+     CREATIVE SPARK: The nearest ferns blur past, the middle forest drifts, the far ridge barely breathes: five paintings pretending, perfectly, to be one morning.
+     SYSTEM GRAMMAR:
+       - Palette/material: gouache forest greens and mist blue-gray planes over a deep umber ground, the cottage window's lamp amber as the single active accent
+       - Type/composition: hand-painted title-card serifs held on their own clear cel, text always on the nearest plane, composition banded by painted depth layers
+       - Topology/navigation: scenes are stacked painted planes; travel is camera movement through layers, not page swaps.
+       - Controls/state: focus racks between planes; interactive elements live on their own cel above the painting.
+       - Responsive/motion: plane count reduces gracefully on phones; parallax follows scroll and freezes into a full composition under
+     WEB LEVERAGE: Scroll-linked parallax planes with real painted-texture assets and rack-focus blur via CSS filters.
+     QUALITY BAR: board https://impeccable.style/worlds/cards/cinema-cinematography-editing-multiplane-cel-dawn.webp ┬╖ hero https://impeccable.style/worlds/cards/cinema-cinematography-editing-multiplane-cel-dawn-hero.webp
+  6. a hand-bent neon letter becoming a continuous gas-discharge circuit, where glass radius, electrode placement, gas, pressure, transformer load, and typography determine the final light
+     SOURCE ID: magnetism-electricity-plasma-hand-bent-neon-circuit
+     CREATIVE SPARK: A clear glass stroke softens over flame and bends into a cobalt script; electrodes seal, the room goes dark, and one continuous word ignites from within.
+     SYSTEM GRAMMAR:
+       - Palette/material: dark room as ground, clear glass tube softening over flame, one cobalt gas-discharge glow marking the active run, warm electrode-red at the sealed ends
+       - Type/composition: hand-bent script drawn as one continuous glass stroke, glyphs bending on a fabrication path, bridges and electrodes ranked where the circuit breaks
+       - Topology/navigation: Follow glyph, tube run, bend, bridge, electrode, transformer circuit, gas spectrum, and installed sign.
+       - Controls/state: Edit path, change gas, test bend radius, split circuits, and compare sketched, bent, pumped, aging, and restored states.
+       - Responsive/motion: Unroll the tube into a fabrication path on phones
+     WEB LEVERAGE: Direct SVG path editing, bend-radius and transformer validation, selectable source text, spectral comparison, and fabrication-ready export turn browser typography into a buildable neon circuit.
+     QUALITY BAR: board https://impeccable.style/worlds/cards/magnetism-electricity-plasma-hand-bent-neon-circuit.webp ┬╖ hero https://impeccable.style/worlds/cards/magnetism-electricity-plasma-hand-bent-neon-circuit-hero.webp
+Fuse each challenger before judging it: the challenger supplies the form
+  and its system grammar, the product supplies every fact, and clarity wins
+  conflicts. Weigh the fused result against the assigned direction on exactly
+  two axes, audience identification and product clarity. Losing to strong
+  grounded material is a valid outcome; beating a thin or tool-monoculture
+  list is the point. A fused challenger that wins both axes becomes the build.
+  Close the weighing with a verdict per challenger, decided before any
+  borrowing is considered: wins (beats the assigned direction on both axes),
+  competitive (holds one axis), or declined (loses both). A declined
+  challenger is not spent: name the one discipline of its system the assigned
+  direction lacks, and raise the assigned direction to match before
+  presenting it. A donation transfers ambition and system discipline, never
+  the challenger's clothes. A component treatment, such as a button's shadow
+  or a display face, is clothes, not discipline; one world owns the page.
+  Write each raise as its own named line on the presented direction, and
+  carry every verdict, kept line, and raise into the decision page payload.
+When you can view images, open the QUALITY BAR board and hero for any
+challenger you weigh seriously and for the world you build. They exist as a
+craft bar, the finish level and commitment the build is expected to reach,
+never as a mockup to copy; your surface serves this product, not that render.
+PRODUCT.md and explicit incumbent brand commitments constrain every direction.
+The seed never chooses exact colors, fonts, tokens, or a user preference, and
+it never permits the world and first surface to be selected independently.
+The CREATIVE SPARK is a complete visual system, not a theme or decorative
+reference. Translate every supplied system rule into the product: palette and
+material, type and composition, topology, controls and states, and adaptation.
+Keep the source's visible character, scale, rhythm, and interaction instead of
+reducing vivid grammar to generic nouns. Keep a literal carrier only when it
+becomes functional.
+Ambitious motion, spatial media, or interaction is welcome when it strengthens
+the product without weakening semantics, performance, or fallback behavior.
+MODE RULES (persuade, from C:\Users\SHAMIM.IT\.agents\skills\impeccable\reference\mode-persuade.md). They govern this surface's directions and every comp you write or judge for it, the decision comps included; where shared guidance conflicts, these win.
+DIRECTIONS
+When a catalog world's source is itself an interface language, the surface may carry its native grammar across navigation, content, controls, and states, within the platform conventions a native app keeps.
+
+For **Persuade**, the opening must make the offer intelligible and desirable, expose a clear action, and demonstrate something only this product can prove. The action is the one the category's visitors came to take, in its working form: an airline's route-and-dates search, a clinic's open appointment slots, a store's add to cart. A decorative link pointing at it elsewhere does not count. Conversion lives inside the form's own vocabulary: a hook that lands in one line, a visible primary action, a legible reading order. A committed form that hides the offer or the action has not finished translating. For **Experience**, the work itself leads from the first viewport.
+COMPS
+The world may be the carrier of the page, never a picture of it: a facade, a shutter or a book can be what the page is built on, while a viewport painted whole as a facade, a book cover or a travel poster, with no working parts in it, is a picture of the world, not its website. Material coverage is wanted: the world's material is the ground and the major surfaces, its type sets the headlines, and a world reduced to an accent on a neutral template is the category default with a sticker on it. Coverage is not performance: how many regions act out the concept is limited by the depth rule in visualize.md, and the rest stay in the world's material without performing it. Both ends erase the direction: the painted poster, and the generic product page (a headline over subcopy and a button, a row of equal cards below). The dealt composition sets the skeleton, and the compositions you write for comps two and three answer to the same test: a split hero (copy on one side, the product on the other, a badge row under it) or a centred headline over a row of cards is the template whatever world paints it.
+
+The world carries the page's parts and never absorbs them, so wherever it puts one, the page still works as a page: navigation set into a facade reads as links, copy on a shutter as set text a visitor reads, an action on a door plaque as plainly clickable, text reads against whatever sits behind it, the sections keep a steady vertical rhythm, the primary action is unmistakable, and the section below starts as a section rather than more painting. Fix a poster by making its parts work where the world put them, never by moving them into a standard layout on the world's colour: a cover that becomes copy beside a device on marigold has lost the cover.
+
+When the world is an object, the page is that one object seen once, at one scale and from one point of view, and the object keeps its real form: a book opens to two pages on one gutter, never a third panel, and a spine that carries the navigation belongs to the book on the page, never a second book beside it. More content goes on the object's own surfaces or on the next spread below, never on extra copies or impossible folds.
+
+Comps two and three each go further than the first, never cleaner: a bolder use of the same world, where the world's material carries more of the page's structure (still one dominant move, per the depth rule), a larger or stranger focal move, or a composition the category would not attempt.
+TELEMETRY: once the round resolves, rerun this script once with
+  --from f9b099a0ece3a43410859b127979a814 --scope direction --mode persuade plus what the user did:
+  - chose a card: --kind <assigned|pick|challenger|grounded|canon>, the kind the
+    card declares, adding --chosen <SOURCE ID> when a dealt challenger won (its
+    catalogId, never your card's id) and keeping --register <safer|bolder>
+    when the round came from a steered hand;
+  - asked for another hand instead of choosing: --kind reroll, adding
+    --register <safer|bolder> when they steered it.
+  One ping per attended round the user resolved; when the decision page
+  already sent it, the rerun prints `choice already recorded`. The ping is anonymous, the card kind plus the catalog id when one
+  won; your grounded candidates' names never leave the machine, and the ping
+  is skipped automatically when DO_NOT_TRACK or IMPECCABLE_NO_TELEMETRY is set.
+A user- or brief-pinned decision beats the roll, always.
+ASSIGNED INDEX (restated for truncated readers): 4. Build candidate
+4 of your own grounded list; seed key f9b099a0ece3a43410859b127979a814.
+SEED REFERENCE: seed:8408864227a1a048. Write this, never the key, wherever the seed is recorded (the surface brief's FORM line, build-phase start --direction); on this machine --from accepts it in place of the key.
+PRESENTATION (the decision round, condensed from new-work.md; follow it even when your read of that file came back cut):
+- Present this hand on the decision page: write the options payload (`C:\Users\SHAMIM.IT\.agents\skills\impeccable\scripts\impeccable.cmd serve-question --schema` prints its shape), run `C:\Users\SHAMIM.IT\.agents\skills\impeccable\scripts\impeccable.cmd serve-question --start --payload <file>`, and open the URL it prints for the user.
+- With image generation, every card declares a comp under .impeccable/mocks/decision/, canon included, declined challengers excepted. Serve first, then generate each comp in reading order (assigned, pick, full-card hand, canon), writing its prompt sidecar as it lands (a.png gets a.png.json).
+- After the last comp or sketch lands (at once when this round makes none), hold `C:\Users\SHAMIM.IT\.agents\skills\impeccable\scripts\impeccable.cmd serve-question --wait --key <key>`. If your shell hands back a session before --wait exits, keep polling that session until it exits; rerun --wait only after it exits 3 with no answer.
+- Build path: recorded default comp (from .impeccable/config.json). With image generation, put "buildPath": {"value": "comp", "toggle": true} in the payload; without it there is no toggle and the build is code-led. Never ask the user about the build path.
+- The structured question tool is the fallback, never the first channel: take it when --start exits 2, when --wait exits 4 after the page closed unanswered, or when your harness cannot hold a blocking --wait at all (say so in your first reply). It carries the same options and asks nothing about the build path.
